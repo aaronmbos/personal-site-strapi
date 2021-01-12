@@ -2,12 +2,18 @@
   "collectionName": "components_posts_tags",
   "info": {
     "name": "Tags",
-    "icon": "id-card-alt"
+    "icon": "id-card-alt",
+    "description": ""
   },
   "options": {},
   "attributes": {
-    "dotnet": {
-      "type": "string"
+    "tag": {
+      "type": "enumeration",
+      "enum": [
+        "dev",
+        "dotnet",
+        "csharp"
+      ]
     }
   }
 }

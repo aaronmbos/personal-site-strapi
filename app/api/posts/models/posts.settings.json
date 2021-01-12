@@ -20,7 +20,7 @@
     "description": {
       "type": "text"
     },
-    "Tags": {
+    "tags": {
       "type": "component",
       "repeatable": true,
       "component": "posts.tags"
