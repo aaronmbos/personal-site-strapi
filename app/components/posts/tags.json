@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_posts_tags",
+  "info": {
+    "name": "Tags",
+    "icon": "id-card-alt"
+  },
+  "options": {},
+  "attributes": {
+    "dotnet": {
+      "type": "string"
+    }
+  }
+}

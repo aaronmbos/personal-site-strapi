@@ -1,0 +1,24 @@
+{
+  "kind": "collectionType",
+  "collectionName": "personal_blogs",
+  "info": {
+    "name": "zzz-posts",
+    "description": ""
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "draftAndPublish": true
+  },
+  "attributes": {
+    "content": {
+      "type": "richtext"
+    },
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    }
+  }
+}
