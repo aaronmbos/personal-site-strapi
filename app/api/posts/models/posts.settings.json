@@ -20,10 +20,15 @@
     "description": {
       "type": "text"
     },
-    "tags": {
+    "metadata": {
       "type": "component",
       "repeatable": true,
       "component": "posts.tags"
+    },
+    "url_id": {
+      "type": "string",
+      "unique": true,
+      "required": true
     }
   }
 }
