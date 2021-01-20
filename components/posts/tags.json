@@ -11,8 +11,7 @@
       "type": "enumeration",
       "enum": [
         "dev",
-        "dotnet",
-        "csharp"
+        "beginnings"
       ]
     }
   }
