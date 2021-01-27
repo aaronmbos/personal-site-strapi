@@ -11,7 +11,10 @@
       "type": "enumeration",
       "enum": [
         "dev",
-        "beginnings"
+        "beginnings",
+        "web",
+        "introduction",
+        "json"
       ]
     }
   }
