@@ -14,7 +14,9 @@
         "beginnings",
         "web",
         "introduction",
-        "json"
+        "json",
+        "postgres",
+        "database"
       ]
     }
   }
