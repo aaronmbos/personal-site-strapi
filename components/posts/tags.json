@@ -16,7 +16,9 @@
         "introduction",
         "json",
         "postgres",
-        "database"
+        "database",
+        "dotnet",
+        "efcore"
       ]
     }
   }
