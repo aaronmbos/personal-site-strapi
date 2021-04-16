@@ -18,7 +18,13 @@
         "postgres",
         "database",
         "dotnet",
-        "efcore"
+        "efcore",
+        "learning",
+        "growth",
+        "csharp",
+        "javascript",
+        "sql",
+        "git"
       ]
     }
   }
